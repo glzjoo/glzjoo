@@ -87,4 +87,4 @@ I'm a Computer Science student and academic scholar at the **University of San A
 
 ---
 
-<p align="center"><i>Building technology that serves communities, one project at a time. /i></p>
+<p align="center"><i>Building technology that serves communities, one project at a time. </i></p>
