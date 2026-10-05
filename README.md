@@ -47,17 +47,6 @@ I'm a Computer Science student and academic scholar at the **University of San A
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| 🌾 [**Iloilo Farmers Hub**](#) | Marketplace connecting Iloilo farmers directly to consumers, in English, Filipino & Hiligaynon | React · TypeScript · Tailwind · i18next |
-| 🎵 [**ChordScript**](#) | A domain-specific language for programming and playing music | ANTLR4ts · React · Tone.js |
-| 🏛️ [**eSerbisyo Rizal**](#) | Barangay management system with an AI chatbot for resident services | React · TypeScript · Firebase |
-| 📚 [**TUON**](#) | Gamified, accessible learning app with Pomodoro, flashcards & text-to-speech | UI/UX · Accessibility |
-| 🥐 [**Pastry Shop Management System**](#) | Sales analytics, inventory & order processing for a pastry shop | Java · MySQL · JDBC |
 
 ---
 
@@ -68,15 +57,14 @@ I'm a Computer Science student and academic scholar at the **University of San A
 - 🌱 **Agriculture Awardee**, Ready, Spark, Charge: Hacking the Future of Energy 2026 (LokalAni)
 - 🎯 **Finalist**, National A.I. Fest Hackathon 2025
 - 🏅 **Best Agustinian Passion Project 2025**, Gawad Agustino
-- 🎮 **First Runner-Up & Critic's Choice**, Tech Go! 2024 Game Dev Contest (as GDSC Lead)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glzjoo&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzjoo&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
