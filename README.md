@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Glaiza Mae Salvaloza 👋</h1>
-<h3 align="center">Computer Science Student · Project Lead · Front-End Developer · Tech Community Builder</h3>
+<h3 align="center">Tech Project Manager · Front-End Developer · Tech Community Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gsalvaloza/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gsalvaloza.business@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -10,14 +10,22 @@
 
 ### 🌱 About Me
 
-I'm a Computer Science student and academic scholar at the **University of San Agustin** in Iloilo, Philippines. I lead teams that build user-centric products for local communities, like a farmers' marketplace, a barangay services platform, and a music programming language.
+I'm a Computer Science student and academic scholar at the **University of San Agustin** in Iloilo, Philippines. I work where front-end development meets project management: I lead teams, scope MVPs quickly, and turn ambitious ideas into shipped products for local communities.
 
-- 🚀 **CEO**, Augustinian Developers Society (ADS)
-- 🤝 **Strategic Initiatives Associate & Secretary**, DEVCON Iloilo
+**Currently**
+- 🚀 **Chief Executive Officer**, Augustinian Developer Society (ADS)
+- 🤝 **Associate Vice President for Strategic Initiatives**, DEVCON Iloilo
+- ☁️ **Director for Technology**, AWS User Group Iloilo, the first AWS community in Iloilo
+- 🏛️ **Vice President for Externals**,  Institute of Computer Science, University of San Agustin
+- 🎨 **Web Developer**, UX Western Visayas
+- 💛 Volunteer, WordPress Iloilo DEVCON Kids Iloilo
+
+**Highlights**
 - 🏆 Project lead in **8 hackathons**, most recently **3rd Place at Next Gen 2026**
-- 👩‍💻 Organized the **FWTF Bootcamp**, which helped women-led startups launch **25 MVPs** in 21 days
+- 👩‍💻 Led the **FWTF Bootcamp**, which helped women-led startups launch **25 MVPs** in 21 days
 - 🤖 Facilitated **Hour of AI 2025** for **1,685 learners** across 13 DepEd schools
-- 💬 Ask me about React, TypeScript, UI/UX, or running tech events
+- 🎪 Led the **Tech4Tomorrow Expo** with **1,300+ attendees** and **130 volunteers**
+- 💻 Founded **DevDash**, the first CS/IT hackathon at the University of San Agustin
 
 ---
 
@@ -60,6 +68,16 @@ I'm a Computer Science student and academic scholar at the **University of San A
 
 ---
 
+### 🌏 Communities I Help Build
+
+![AWS User Group Iloilo](https://img.shields.io/badge/AWS_User_Group_Iloilo-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DEVCON Iloilo](https://img.shields.io/badge/DEVCON_Iloilo-1F2937?style=flat-square)
+![Augustinian Developer Society](https://img.shields.io/badge/Augustinian_Developer_Society-6D28D9?style=flat-square)
+![UX Western Visayas](https://img.shields.io/badge/UX_Western_Visayas-7C3AED?style=flat-square)
+![GDSC USA](https://img.shields.io/badge/GDSC_USA-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -69,4 +87,4 @@ I'm a Computer Science student and academic scholar at the **University of San A
 
 ---
 
-<p align="center"><i>Building technology that serves communities, one project at a time. 🇵🇭</i></p>
+<p align="center"><i>Building technology that serves communities, one project at a time. /i></p>
