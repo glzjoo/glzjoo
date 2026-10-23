@@ -78,13 +78,5 @@ I'm a Computer Science student and academic scholar at the **University of San A
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glzjoo&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzjoo&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
 
 <p align="center"><i>Building technology that serves communities, one project at a time. </i></p>
