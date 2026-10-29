@@ -66,15 +66,5 @@ I'm a Computer Science student and academic scholar at the **University of San A
 
 ---
 
-### 🌏 Communities I Help Build
-
-![AWS User Group Iloilo](https://img.shields.io/badge/AWS_User_Group_Iloilo-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![DEVCON Iloilo](https://img.shields.io/badge/DEVCON_Iloilo-1F2937?style=flat-square)
-![Augustinian Developer Society](https://img.shields.io/badge/Augustinian_Developer_Society-6D28D9?style=flat-square)
-![UX Western Visayas](https://img.shields.io/badge/UX_Western_Visayas-7C3AED?style=flat-square)
-![GDSC USA](https://img.shields.io/badge/GDSC_USA-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
 
 <p align="center"><i>Building technology that serves communities, one project at a time. </i></p>
