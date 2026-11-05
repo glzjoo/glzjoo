@@ -65,6 +65,13 @@ I'm a Computer Science student and academic scholar at the **University of San A
 - 🏅 **Best Agustinian Passion Project 2025**, Gawad Agustino
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glzjoo/glzjoo/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glzjoo/glzjoo/output/snake-light.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/glzjoo/glzjoo/output/snake-light.svg" />
+  </picture>
+</p>
 
 
 <p align="center"><i>Building technology that serves communities, one project at a time. </i></p>
